@@ -1,5 +1,6 @@
-require "latinverb_participles/version"
+require "forwardable"
 
-module LatinverbParticiples
-  # Your code goes here...
-end
+require "latinverb_participles/version"
+require "latinverb_participles/participles_factory"
+require "latinverb_participles/participles_factory/participler"
+require "latinverb_participles/participles_factory/deponent_participler"

@@ -7,9 +7,8 @@ Gem::Specification.new do |spec|
   spec.name          = "latinverb_participles"
   spec.version       = LatinverbParticiples::VERSION
   spec.authors       = ["Steven G. Harms"]
-  spec.email         = ["steven@devbootcamp.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["steven.harms@gmail.com"]
+  spec.summary       = %q{Extraction of participles factory from LatinVerb}
   spec.homepage      = ""
   spec.license       = "MIT"
 
